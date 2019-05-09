@@ -1,0 +1,6 @@
+Features
+
+* Instant Payouts
+* CipherCoin Wallet
+* Private Transactions
+* Global Payment Network
